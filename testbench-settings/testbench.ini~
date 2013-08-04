@@ -1,0 +1,16 @@
+[General]
+doA=true
+doB=false
+doC=false
+doD=false
+doE=false
+doMedianFilterA=true
+doLowPassFilterA=false
+filterSizeA=3
+colorSpaceB=1
+doBackprojectingB=false
+doDistanceFilterB=true
+backprojectingTreshold=0
+distanceFilterTreshold=0
+backprojectingTresholdB=47
+distanceFilterTresholdB=59
